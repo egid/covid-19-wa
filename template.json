@@ -23,7 +23,7 @@
 		}
 	},
 	"deaths": {
-        "total": null,
+        	"total": null,
 		"age": {
 			"0-19":  null,
 			"20-29": null,
