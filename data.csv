@@ -1,22 +1,22 @@
-date,source,total tested,total positive,daily tests,daily positive,daily % positive,total deaths,daily deaths,positive 0-19y,positive 20-29y,positive 30-39y,positive 40-49y,positive 50-59y,positive 60-69y,positive 70-79y,positive 80+y,female at birth,male at birth,birth gender unknown,deaths 0-19y,deaths 20-29y,deaths 30-39y,deaths 40-49y,deaths 50-59y,deaths 60-69y,deaths 70-79y,deaths 80+y,deaths female at birth,deaths male at birth,deaths birth gender unknown,notes
-03/01,,41,6,,6,,,,,,,,,,,,,,1.00,,,,,,,,,,,1.00,
-03/02,,,18,,12,,6,,,,,,,,,,,,1.00,,,,,,,,,,,1.00,no total or negative results provided
-03/03,,,27,,9,,9,3,,,,,,,,,,,1.00,,,,,,,,,,,1.00,no total or negative results provided
-03/04,,,39,,12,,10,1,,,,,,,,,,,1.00,,,,,,,,,,,1.00,no total or negative results provided
-03/05,,,70,,31,,10,0,,,,,,,,,,,1.00,,,,,,,,,,,1.00,no total or negative results provided
-03/06,,,79,,9,,11,1,,,,,,,,,,,1.00,,,,,,,,,,,1.00,no total or negative results provided
-03/07,,,102,,23,,16,5,,,,,,,,,,,1.00,,,,,,,,,,,1.00,no total or negative results provided
-03/08,http://web.archive.org/web/20200309183730/https://www.doh.wa.gov/Emergencies/Coronavirus,1246,136,1246,34,2.73%,18,2,0.02,0.04,0.10,0.13,0.14,0.20,0.10,0.20,0.51,0.38,0.11,,,,,,,,,,,1.00,daily total / negative counts resume
-03/09,http://web.archive.org/web/20200310212147/https://www.doh.wa.gov/Emergencies/Coronavirus,1311,162,65,26,40.00%,22,4,0.02,0.05,0.10,0.13,0.15,0.21,0.15,0.19,0.55,0.42,0.03,,,,,,,,,,,1.00,
-03/10,http://web.archive.org/web/20200310224258/https://www.doh.wa.gov/Emergencies/Coronavirus,2442,265,1131,103,9.11%,24,2,0.02,0.04,0.10,0.14,0.14,0.19,0.15,0.22,0.56,0.42,0.02,,,,,,,,,,,1.00,
-03/11,http://web.archive.org/web/20200311220444/https://www.doh.wa.gov/Emergencies/Coronavirus,3403,366,961,101,10.51%,29,5,0.02,0.05,0.09,0.12,0.13,0.16,0.18,0.25,0.57,0.40,0.03,,,,,,,,,,,1.00,
-03/12,http://web.archive.org/web/20200313132534/https://www.doh.wa.gov/Emergencies/Coronavirus,4807,457,1404,91,6.48%,31,2,0.02,0.05,0.09,0.12,0.13,0.16,0.18,0.24,0.57,0.40,0.03,,,,,,,,,,,1.00,
-03/13,http://web.archive.org/web/20200314105346/https://www.doh.wa.gov/Emergencies/Coronavirus,6569,568,1762,111,6.30%,37,6,0.02,0.07,0.10,0.13,0.14,0.15,0.18,0.21,0.55,0.42,0.03,,,,,,,,,,,1.00,
-03/14,http://web.archive.org/web/20200315062450/https://www.doh.wa.gov/Emergencies/Coronavirus,7765,643,1196,75,6.27%,40,3,0.02,0.07,0.11,0.13,0.15,0.16,0.18,0.20,0.54,0.43,0.03,,,,,,,,,,,1.00,
-03/15,http://web.archive.org/web/20200316134809/https://www.doh.wa.gov/Emergencies/Coronavirus,10220,769,2455,126,5.13%,42,2,0.02,0.07,0.11,0.12,0.16,0.14,0.18,0.20,0.53,0.43,0.04,,,,,,,,,,,1.00,
-03/16,http://web.archive.org/web/20200316225808/https://www.doh.wa.gov/Emergencies/Coronavirus,12486,904,2266,135,5.96%,48,6,0.02,0.07,0.12,0.13,0.16,0.15,0.17,0.18,0.51,0.44,0.05,,,,,,,,,,,1.00,
-03/17,http://web.archive.org/web/20200317224504/https://www.doh.wa.gov/Emergencies/Coronavirus,14129,1012,1643,108,6.57%,52,4,0.02,0.07,0.12,0.14,0.16,0.15,0.17,0.17,0.51,0.46,0.03,,,,,,,,,,,1.00,
-03/18,http://web.archive.org/web/20200318235555/https://www.doh.wa.gov/Emergencies/Coronavirus,17105,1187,2976,175,5.88%,66,14,0.02,0.08,0.12,0.14,0.17,0.15,0.16,0.16,0.51,0.46,0.03,,,,,,,,,,,1.00,
-03/19,http://web.archive.org/web/20200319224921/https://www.doh.wa.gov/Emergencies/Coronavirus,20712,1376,3607,189,5.24%,74,8,0.02,0.08,0.13,0.14,0.16,0.16,0.15,0.16,0.51,0.46,0.03,0.00,0.00,0.00,0.03,0.05,0.08,0.26,0.59,0.59,0.38,0.03,detailed death demographics begin
-03/20,http://web.archive.org/web/20200320222644/https://www.doh.wa.gov/Emergencies/Coronavirus,23243,1524,2531,148,5.85%,83,9,0.02,0.08,0.13,0.13,0.16,0.16,0.16,0.16,0.51,0.46,0.03,0.00,0.00,0.00,0.02,0.04,0.10,0.23,0.60,0.59,0.38,0.03,
-03/21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+date,total tested,total positive,daily positive,total deaths,positive 0-19y,positive 20-29y,positive 30-39y,positive 40-49y,positive 50-59y,positive 60-69y,positive 70-79y,positive 80+y,female at birth,male at birth,birth gender unknown,deaths 0-19y,deaths 20-29y,deaths 30-39y,deaths 40-49y,deaths 50-59y,deaths 60-69y,deaths 70-79y,deaths 80+y,deaths female at birth,deaths male at birth,deaths birth gender unknown,source,notes
+03/01,41,6,6,,,,,,,,,,,,,,,,,,,,,,,,http://web.archive.org/web/20200302200037/https://www.doh.wa.gov/Emergencies/Coronavirus,
+03/02,,18,12,6,,,,,,,,,,,,,,,,,,,,,,,http://web.archive.org/web/20200303043400/https://www.doh.wa.gov/Emergencies/Coronavirus,no total or negative results provided
+03/03,,27,9,9,,,,,,,,,,,,,,,,,,,,,,,http://web.archive.org/web/20200303043400/https://www.doh.wa.gov/Emergencies/Coronavirus,no total or negative results provided
+03/04,,39,12,10,,,,,,,,,,,,,,,,,,,,,,,http://web.archive.org/web/20200305114821/https://www.doh.wa.gov/Emergencies/Coronavirus,no total or negative results provided
+03/05,,70,31,10,,,,,,,,,,,,,,,,,,,,,,,http://web.archive.org/web/20200306153534/https://www.doh.wa.gov/Emergencies/Coronavirus,no total or negative results provided
+03/06,,79,9,11,,,,,,,,,,,,,,,,,,,,,,,http://web.archive.org/web/20200307171003/https://www.doh.wa.gov/Emergencies/Coronavirus,no total or negative results provided
+03/07,,102,23,16,,,,,,,,,,,,,,,,,,,,,,,http://web.archive.org/web/20200308174137/https://www.doh.wa.gov/emergencies/coronavirus,no total or negative results provided
+03/08,1246,136,34,18,0.02,0.04,0.10,0.13,0.14,0.20,0.10,0.20,0.51,0.38,0.11,,,,,,,,,,,,http://web.archive.org/web/20200309183730/https://www.doh.wa.gov/Emergencies/Coronavirus,daily total / negative counts resume
+03/09,1311,162,26,22,0.02,0.05,0.10,0.13,0.15,0.21,0.15,0.19,0.55,0.42,0.03,,,,,,,,,,,,http://web.archive.org/web/20200310212147/https://www.doh.wa.gov/Emergencies/Coronavirus,
+03/10,2442,265,103,24,0.02,0.04,0.10,0.14,0.14,0.19,0.15,0.22,0.56,0.42,0.02,,,,,,,,,,,,http://web.archive.org/web/20200310224258/https://www.doh.wa.gov/Emergencies/Coronavirus,
+03/11,3403,366,101,29,0.02,0.05,0.09,0.12,0.13,0.16,0.18,0.25,0.57,0.40,0.03,,,,,,,,,,,,http://web.archive.org/web/20200311220444/https://www.doh.wa.gov/Emergencies/Coronavirus,
+03/12,4807,457,91,31,0.02,0.05,0.09,0.12,0.13,0.16,0.18,0.24,0.57,0.40,0.03,,,,,,,,,,,,http://web.archive.org/web/20200313132534/https://www.doh.wa.gov/Emergencies/Coronavirus,
+03/13,6569,568,111,37,0.02,0.07,0.10,0.13,0.14,0.15,0.18,0.21,0.55,0.42,0.03,,,,,,,,,,,,http://web.archive.org/web/20200314105346/https://www.doh.wa.gov/Emergencies/Coronavirus,
+03/14,7765,643,75,40,0.02,0.07,0.11,0.13,0.15,0.16,0.18,0.20,0.54,0.43,0.03,,,,,,,,,,,,http://web.archive.org/web/20200315062450/https://www.doh.wa.gov/Emergencies/Coronavirus,
+03/15,10220,769,126,42,0.02,0.07,0.11,0.12,0.16,0.14,0.18,0.20,0.53,0.43,0.04,,,,,,,,,,,,http://web.archive.org/web/20200316134809/https://www.doh.wa.gov/Emergencies/Coronavirus,
+03/16,12486,904,135,48,0.02,0.07,0.12,0.13,0.16,0.15,0.17,0.18,0.51,0.44,0.05,,,,,,,,,,,,http://web.archive.org/web/20200316225808/https://www.doh.wa.gov/Emergencies/Coronavirus,
+03/17,14129,1012,108,52,0.02,0.07,0.12,0.14,0.16,0.15,0.17,0.17,0.51,0.46,0.03,,,,,,,,,,,,http://web.archive.org/web/20200317224504/https://www.doh.wa.gov/Emergencies/Coronavirus,
+03/18,17105,1187,175,66,0.02,0.08,0.12,0.14,0.17,0.15,0.16,0.16,0.51,0.46,0.03,,,,,,,,,,,,http://web.archive.org/web/20200318235555/https://www.doh.wa.gov/Emergencies/Coronavirus,
+03/19,20712,1376,189,74,0.02,0.08,0.13,0.14,0.16,0.16,0.15,0.16,0.51,0.46,0.03,0.00,0.00,0.00,0.03,0.05,0.08,0.26,0.59,0.59,0.38,0.03,http://web.archive.org/web/20200319224921/https://www.doh.wa.gov/Emergencies/Coronavirus,detailed death demographics begin
+03/20,23243,1524,148,83,0.02,0.08,0.13,0.13,0.16,0.16,0.16,0.16,0.51,0.46,0.03,0.00,0.00,0.00,0.02,0.04,0.10,0.23,0.60,0.59,0.38,0.03,http://web.archive.org/web/20200320222644/https://www.doh.wa.gov/Emergencies/Coronavirus,
+03/21,,,,,,,,,,,,,,,,,,,,,,,,,,,,
