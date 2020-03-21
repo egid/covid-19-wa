@@ -300,92 +300,479 @@
             }
         }
     },
-"2020-03-08T23:00:00.000Z": {
-	"source": "http://web.archive.org/web/20200309183730/https://www.doh.wa.gov/Emergencies/Coronavirus",
-	"notes": "daily total / negative counts resume",
-	"test_results": {
-		"total": 1246,
-		"positive": {
-			"total": 136,
-			"age": {
-				"0-19":  0.02,
-				"20-29": 0.04,
-				"30-39": 0.10,
-				"40-49": 0.13,
-				"50-59": 0.14,
-				"60-69": 0.20,
-				"70-79": 0.10,
-				"80+":   0.20
-			},
-			"gender": {
-				"female":  0.51,
-				"male":    0.38,
-				"unknown": 0.11
-			}
-		}
-	},
-	"deaths": {
-        "total": 18,
-		"age": {
-			"0-19":  null,
-			"20-29": null,
-			"30-39": null,
-			"40-49": null,
-			"50-59": null,
-			"60-69": null,
-			"70-79": null,
-			"80+":   null
-		},
-		"gender": {
-			"female":  null,
-			"male":    null,
-			"unknown": null
-		}
-	}
-},
-"2020-03-09T23:45:00.000Z": {
-	"source": "http://web.archive.org/web/20200310212147/https://www.doh.wa.gov/Emergencies/Coronavirus",
-	"notes": "",
-	"test_results": {
-		"total": 1311,
-		"positive": {
-			"total": 162,
-			"age": {
-				"0-19":  0.02,
-				"20-29": 0.05,
-				"30-39": 0.10,
-				"40-49": 0.13,
-				"50-59": 0.15,
-				"60-69": 0.21,
-				"70-79": 0.15,
-				"80+":   0.19
-			},
-			"gender": {
-				"female":  0.55,
-				"male":    0.42,
-				"unknown": 0.03
-			}
-		}
-	},
-	"deaths": {
-        "total": 22,
-		"age": {
-			"0-19":  null,
-			"20-29": null,
-			"30-39": null,
-			"40-49": null,
-			"50-59": null,
-			"60-69": null,
-			"70-79": null,
-			"80+":   null
-		},
-		"gender": {
-			"female":  null,
-			"male":    null,
-			"unknown": null
-		}
-	}
-},
+    "2020-03-08T23:00:00.000Z": {
+        "source": "http://web.archive.org/web/20200309183730/https://www.doh.wa.gov/Emergencies/Coronavirus",
+        "notes": "daily total / negative counts resume",
+        "test_results": {
+            "total": 1246,
+            "positive": {
+                "total": 136,
+                "age": {
+                    "0-19": 0.02,
+                    "20-29": 0.04,
+                    "30-39": 0.1,
+                    "40-49": 0.13,
+                    "50-59": 0.14,
+                    "60-69": 0.2,
+                    "70-79": 0.1,
+                    "80+": 0.2
+                },
+                "gender": {
+                    "female": 0.51,
+                    "male": 0.38,
+                    "unknown": 0.11
+                }
+            }
+        },
+        "deaths": {
+            "total": 18,
+            "age": {
+                "0-19": null,
+                "20-29": null,
+                "30-39": null,
+                "40-49": null,
+                "50-59": null,
+                "60-69": null,
+                "70-79": null,
+                "80+": null
+            },
+            "gender": {
+                "female": null,
+                "male": null,
+                "unknown": null
+            }
+        }
+    },
+    "2020-03-09T23:45:00.000Z": {
+        "source": "http://web.archive.org/web/20200310212147/https://www.doh.wa.gov/Emergencies/Coronavirus",
+        "notes": "",
+        "test_results": {
+            "total": 1311,
+            "positive": {
+                "total": 162,
+                "age": {
+                    "0-19": 0.02,
+                    "20-29": 0.05,
+                    "30-39": 0.1,
+                    "40-49": 0.13,
+                    "50-59": 0.15,
+                    "60-69": 0.21,
+                    "70-79": 0.15,
+                    "80+": 0.19
+                },
+                "gender": {
+                    "female": 0.55,
+                    "male": 0.42,
+                    "unknown": 0.03
+                }
+            }
+        },
+        "deaths": {
+            "total": 22,
+            "age": {
+                "0-19": null,
+                "20-29": null,
+                "30-39": null,
+                "40-49": null,
+                "50-59": null,
+                "60-69": null,
+                "70-79": null,
+                "80+": null
+            },
+            "gender": {
+                "female": null,
+                "male": null,
+                "unknown": null
+            }
+        }
+    },
+    "2020-03-10T21:28:00.000Z": {
+        "source": "http://web.archive.org/web/20200310224258/https://www.doh.wa.gov/Emergencies/Coronavirus",
+        "notes": "",
+        "test_results": {
+            "total": 2442,
+            "positive": {
+                "total": 265,
+                "age": {
+                    "0-19": 0.02,
+                    "20-29": 0.04,
+                    "30-39": 0.1,
+                    "40-49": 0.14,
+                    "50-59": 0.14,
+                    "60-69": 0.19,
+                    "70-79": 0.15,
+                    "80+": 0.22
+                },
+                "gender": {
+                    "female": 0.56,
+                    "male": 0.42,
+                    "unknown": 0.02
+                }
+            }
+        },
+        "deaths": {
+            "total": 24,
+            "age": {
+                "0-19": null,
+                "20-29": null,
+                "30-39": null,
+                "40-49": null,
+                "50-59": null,
+                "60-69": null,
+                "70-79": null,
+                "80+": null
+            },
+            "gender": {
+                "female": null,
+                "male": null,
+                "unknown": null
+            }
+        }
+    },
+    "2020-03-11T21:25:00.000Z": {
+        "source": "http://web.archive.org/web/20200311220444/https://www.doh.wa.gov/Emergencies/Coronavirus",
+        "notes": "",
+        "test_results": {
+            "total": 3403,
+            "positive": {
+                "total": 366,
+                "age": {
+                    "0-19": 0.02,
+                    "20-29": 0.05,
+                    "30-39": 0.09,
+                    "40-49": 0.12,
+                    "50-59": 0.13,
+                    "60-69": 0.16,
+                    "70-79": 0.18,
+                    "80+": 0.25
+                },
+                "gender": {
+                    "female": 0.57,
+                    "male": 0.4,
+                    "unknown": 0.03
+                }
+            }
+        },
+        "deaths": {
+            "total": 29,
+            "age": {
+                "0-19": null,
+                "20-29": null,
+                "30-39": null,
+                "40-49": null,
+                "50-59": null,
+                "60-69": null,
+                "70-79": null,
+                "80+": null
+            },
+            "gender": {
+                "female": null,
+                "male": null,
+                "unknown": null
+            }
+        }
+    },
+    "2020-03-13T00:00:00.000Z": {
+        "source": "http://web.archive.org/web/20200313132534/https://www.doh.wa.gov/Emergencies/Coronavirus",
+        "notes": "",
+        "test_results": {
+            "total": 4807,
+            "positive": {
+                "total": 457,
+                "age": {
+                    "0-19": 0.02,
+                    "20-29": 0.05,
+                    "30-39": 0.09,
+                    "40-49": 0.12,
+                    "50-59": 0.13,
+                    "60-69": 0.16,
+                    "70-79": 0.18,
+                    "80+": 0.24
+                },
+                "gender": {
+                    "female": 0.57,
+                    "male": 0.4,
+                    "unknown": 0.03
+                }
+            }
+        },
+        "deaths": {
+            "total": 31,
+            "age": {
+                "0-19": null,
+                "20-29": null,
+                "30-39": null,
+                "40-49": null,
+                "50-59": null,
+                "60-69": null,
+                "70-79": null,
+                "80+": null
+            },
+            "gender": {
+                "female": null,
+                "male": null,
+                "unknown": null
+            }
+        }
+    },
+    "2020-03-13T21:00:00.000Z": {
+        "source": "http://web.archive.org/web/20200314105346/https://www.doh.wa.gov/Emergencies/Coronavirus",
+        "notes": "",
+        "test_results": {
+            "total": 6569,
+            "positive": {
+                "total": 568,
+                "age": {
+                    "0-19": 0.02,
+                    "20-29": 0.07,
+                    "30-39": 0.1,
+                    "40-49": 0.13,
+                    "50-59": 0.14,
+                    "60-69": 0.15,
+                    "70-79": 0.18,
+                    "80+": 0.21
+                },
+                "gender": {
+                    "female": 0.55,
+                    "male": 0.42,
+                    "unknown": 0.03
+                }
+            }
+        },
+        "deaths": {
+            "total": 37,
+            "age": {
+                "0-19": null,
+                "20-29": null,
+                "30-39": null,
+                "40-49": null,
+                "50-59": null,
+                "60-69": null,
+                "70-79": null,
+                "80+": null
+            },
+            "gender": {
+                "female": null,
+                "male": null,
+                "unknown": null
+            }
+        }
+    },
+    "2020-03-14T21:45:00.000Z": {
+        "source": "http://web.archive.org/web/20200315062450/https://www.doh.wa.gov/Emergencies/Coronavirus",
+        "notes": "",
+        "test_results": {
+            "total": 7765,
+            "positive": {
+                "total": 643,
+                "age": {
+                    "0-19": 0.02,
+                    "20-29": 0.07,
+                    "30-39": 0.11,
+                    "40-49": 0.13,
+                    "50-59": 0.15,
+                    "60-69": 0.16,
+                    "70-79": 0.18,
+                    "80+": 0.2
+                },
+                "gender": {
+                    "female": 0.54,
+                    "male": 0.43,
+                    "unknown": 0.03
+                }
+            }
+        },
+        "deaths": {
+            "total": 40,
+            "age": {
+                "0-19": null,
+                "20-29": null,
+                "30-39": null,
+                "40-49": null,
+                "50-59": null,
+                "60-69": null,
+                "70-79": null,
+                "80+": null
+            },
+            "gender": {
+                "female": null,
+                "male": null,
+                "unknown": null
+            }
+        }
+    },
+    "2020-03-15T22:00:00.000Z": {
+        "source": "http://web.archive.org/web/20200316134809/https://www.doh.wa.gov/Emergencies/Coronavirus",
+        "notes": "",
+        "test_results": {
+            "total": 10220,
+            "positive": {
+                "total": 769,
+                "age": {
+                    "0-19": 0.02,
+                    "20-29": 0.07,
+                    "30-39": 0.11,
+                    "40-49": 0.12,
+                    "50-59": 0.16,
+                    "60-69": 0.14,
+                    "70-79": 0.18,
+                    "80+": 0.2
+                },
+                "gender": {
+                    "female": 0.53,
+                    "male": 0.43,
+                    "unknown": 0.04
+                }
+            }
+        },
+        "deaths": {
+            "total": 42,
+            "age": {
+                "0-19": null,
+                "20-29": null,
+                "30-39": null,
+                "40-49": null,
+                "50-59": null,
+                "60-69": null,
+                "70-79": null,
+                "80+": null
+            },
+            "gender": {
+                "female": null,
+                "male": null,
+                "unknown": null
+            }
+        }
+    },
+    "2020-03-16T22:45:00.000Z": {
+        "source": "http://web.archive.org/web/20200316225808/https://www.doh.wa.gov/Emergencies/Coronavirus",
+        "notes": "",
+        "test_results": {
+            "total": 12486,
+            "positive": {
+                "total": 904,
+                "age": {
+                    "0-19": 0.02,
+                    "20-29": 0.07,
+                    "30-39": 0.12,
+                    "40-49": 0.13,
+                    "50-59": 0.16,
+                    "60-69": 0.15,
+                    "70-79": 0.17,
+                    "80+": 0.18
+                },
+                "gender": {
+                    "female": 0.51,
+                    "male": 0.44,
+                    "unknown": 0.05
+                }
+            }
+        },
+        "deaths": {
+            "total": 48,
+            "age": {
+                "0-19": null,
+                "20-29": null,
+                "30-39": null,
+                "40-49": null,
+                "50-59": null,
+                "60-69": null,
+                "70-79": null,
+                "80+": null
+            },
+            "gender": {
+                "female": null,
+                "male": null,
+                "unknown": null
+            }
+        }
+    },
+    "2020-03-17T22:15:00.000Z": {
+        "source": "http://web.archive.org/web/20200317224504/https://www.doh.wa.gov/Emergencies/Coronavirus",
+        "notes": "",
+        "test_results": {
+            "total": 14129,
+            "positive": {
+                "total": 1012,
+                "age": {
+                    "0-19": 0.02,
+                    "20-29": 0.07,
+                    "30-39": 0.12,
+                    "40-49": 0.14,
+                    "50-59": 0.16,
+                    "60-69": 0.15,
+                    "70-79": 0.17,
+                    "80+": 0.17
+                },
+                "gender": {
+                    "female": 0.51,
+                    "male": 0.46,
+                    "unknown": 0.03
+                }
+            }
+        },
+        "deaths": {
+            "total": 52,
+            "age": {
+                "0-19": null,
+                "20-29": null,
+                "30-39": null,
+                "40-49": null,
+                "50-59": null,
+                "60-69": null,
+                "70-79": null,
+                "80+": null
+            },
+            "gender": {
+                "female": null,
+                "male": null,
+                "unknown": null
+            }
+        }
+    },
+    "2020-03-18T22:25:00.000Z": {
+        "source": "http://web.archive.org/web/20200318235555/https://www.doh.wa.gov/Emergencies/Coronavirus",
+        "notes": "",
+        "test_results": {
+            "total": 17105,
+            "positive": {
+                "total": 1187,
+                "age": {
+                    "0-19": 0.02,
+                    "20-29": 0.08,
+                    "30-39": 0.12,
+                    "40-49": 0.14,
+                    "50-59": 0.17,
+                    "60-69": 0.15,
+                    "70-79": 0.16,
+                    "80+": 0.16
+                },
+                "gender": {
+                    "female": 0.51,
+                    "male": 0.46,
+                    "unknown": 0.03
+                }
+            }
+        },
+        "deaths": {
+            "total": 66,
+            "age": {
+                "0-19": null,
+                "20-29": null,
+                "30-39": null,
+                "40-49": null,
+                "50-59": null,
+                "60-69": null,
+                "70-79": null,
+                "80+": null
+            },
+            "gender": {
+                "female": null,
+                "male": null,
+                "unknown": null
+            }
+        }
+    },
     "2020-03-19T22:00:00.000Z": {
         "source": "http://web.archive.org/web/20200319224921/https://www.doh.wa.gov/Emergencies/Coronavirus",
         "notes": "detailed death demographics begin",
