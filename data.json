@@ -4,6 +4,7 @@
         "notes": "",
         "test_results": {
             "total": 41,
+            "negative": 35,
             "positive": {
                 "total": 6,
                 "age": {
@@ -47,6 +48,7 @@
         "notes": "no total or negative results provided",
         "test_results": {
             "total": null,
+            "negative": null,
             "positive": {
                 "total": 18,
                 "age": {
@@ -90,7 +92,8 @@
         "notes": "no total or negative results provided",
         "test_results": {
             "total": null,
-            "positive": {
+                        "negative": null,
+                        "positive": {
                 "total": 27,
                 "age": {
                     "0-19": null,
@@ -133,7 +136,8 @@
         "notes": "no total or negative results provided",
         "test_results": {
             "total": null,
-            "positive": {
+                        "negative": null,
+                        "positive": {
                 "total": 39,
                 "age": {
                     "0-19": null,
@@ -176,6 +180,7 @@
         "notes": "no total or negative results provided",
         "test_results": {
             "total": null,
+            "negative": null,
             "positive": {
                 "total": 70,
                 "age": {
@@ -219,6 +224,7 @@
         "notes": "no total or negative results provided",
         "test_results": {
             "total": null,
+            "negative": null,
             "positive": {
                 "total": 79,
                 "age": {
@@ -262,6 +268,7 @@
         "notes": "no total or negative results provided",
         "test_results": {
             "total": null,
+            "negative": null,
             "positive": {
                 "total": 102,
                 "age": {
@@ -305,6 +312,7 @@
         "notes": "daily total / negative counts resume",
         "test_results": {
             "total": 1246,
+            "negative": 1110,
             "positive": {
                 "total": 136,
                 "age": {
@@ -348,6 +356,7 @@
         "notes": "",
         "test_results": {
             "total": 1311,
+            "negative": 1149,
             "positive": {
                 "total": 162,
                 "age": {
@@ -391,6 +400,7 @@
         "notes": "",
         "test_results": {
             "total": 2442,
+            "negative": 2177,
             "positive": {
                 "total": 265,
                 "age": {
@@ -434,6 +444,7 @@
         "notes": "",
         "test_results": {
             "total": 3403,
+            "negative": 3037,
             "positive": {
                 "total": 366,
                 "age": {
@@ -477,6 +488,7 @@
         "notes": "",
         "test_results": {
             "total": 4807,
+            "negative": 4350,
             "positive": {
                 "total": 457,
                 "age": {
@@ -520,6 +532,7 @@
         "notes": "",
         "test_results": {
             "total": 6569,
+            "negative": 6001,
             "positive": {
                 "total": 568,
                 "age": {
@@ -563,6 +576,7 @@
         "notes": "",
         "test_results": {
             "total": 7765,
+            "negative": 7122,
             "positive": {
                 "total": 643,
                 "age": {
@@ -606,6 +620,7 @@
         "notes": "",
         "test_results": {
             "total": 10220,
+            "negative": 9451,
             "positive": {
                 "total": 769,
                 "age": {
@@ -649,6 +664,7 @@
         "notes": "",
         "test_results": {
             "total": 12486,
+            "negative": 11582,
             "positive": {
                 "total": 904,
                 "age": {
@@ -692,6 +708,7 @@
         "notes": "",
         "test_results": {
             "total": 14129,
+            "negative": 13117,
             "positive": {
                 "total": 1012,
                 "age": {
@@ -735,6 +752,7 @@
         "notes": "",
         "test_results": {
             "total": 17105,
+            "negative": 15918,
             "positive": {
                 "total": 1187,
                 "age": {
@@ -778,6 +796,7 @@
         "notes": "detailed death demographics begin",
         "test_results": {
             "total": 20712,
+            "negative": 19336,
             "positive": {
                 "total": 1376,
                 "age": {
@@ -821,6 +840,7 @@
         "notes": "",
         "test_results": {
             "total": 23243,
+            "negative": 21719,
             "positive": {
                 "total": 1524,
                 "age": {
@@ -864,41 +884,86 @@
         "notes": "",
         "test_results": {
             "total": 27121,
+            "negative": 25328,
             "positive": {
                 "total": 1793,
                 "age": {
-                    "0-19":  0.02,
+                    "0-19": 0.02,
                     "20-29": 0.08,
                     "30-39": 0.14,
                     "40-49": 0.13,
                     "50-59": 0.17,
                     "60-69": 0.16,
                     "70-79": 0.15,
-                    "80+":   0.14
+                    "80+": 0.14
                 },
                 "gender": {
-                    "female":   0.50,
-                    "male":     0.45,
-                    "unknown":  0.06
+                    "female": 0.50,
+                    "male": 0.45,
+                    "unknown": 0.06
                 }
             }
         },
         "deaths": {
             "total": 94,
             "age": {
-                "0-19":     0.00,
-                "20-29":    0.00,
-                "30-39":    0.00,
-                "40-49":    0.02,
-                "50-59":    0.05,
-                "60-69":    0.10,
-                "70-79":    0.23,
-                "80+":      0.60
+                "0-19": 0.00,
+                "20-29": 0.00,
+                "30-39": 0.00,
+                "40-49": 0.02,
+                "50-59": 0.05,
+                "60-69": 0.10,
+                "70-79": 0.23,
+                "80+": 0.60
             },
             "gender": {
-                "female":   0.56,
-                "male":     0.35,
-                "unknown":  0.09
+                "female": 0.56,
+                "male": 0.35,
+                "unknown": 0.09
+            }
+        }
+    },
+    "2020-03-22T22:00:00.000Z": {
+        "source": "https://web.archive.org/web/20200323043525/https://www.doh.wa.gov/Emergencies/Coronavirus",
+        "notes": "",
+        "test_results": {
+            "total": 30875,
+            "negative": 28879,
+            "positive": {
+                "total": 1996,
+                "age": {
+                    "0-19":  0.02,
+                    "20-29": 0.09,
+                    "30-39": 0.14,
+                    "40-49": 0.14,
+                    "50-59": 0.17,
+                    "60-69": 0.16,
+                    "70-79": 0.15,
+                    "80+":   0.15
+                },
+                "gender": {
+                    "female":  0.51,
+                    "male":    0.45,
+                    "unknown": 0.04
+                }
+            }
+        },
+        "deaths": {
+            "total": 95,
+            "age": {
+                "0-19":  0.00,
+                "20-29": 0.00,
+                "30-39": 0.00,
+                "40-49": 0.02,
+                "50-59": 0.06,
+                "60-69": 0.10,
+                "70-79": 0.30,
+                "80+":   0.50
+            },
+            "gender": {
+                "female":  0.54,
+                "male":    0.44,
+                "unknown": 0.02
             }
         }
     }
